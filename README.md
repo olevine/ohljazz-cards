@@ -1,2 +1,2 @@
 # ohljazz-cards
-one page website with INstagram style cards for ohljazz events
+one page website with Instagram style cards for ohljazz events
